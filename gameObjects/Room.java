@@ -22,7 +22,7 @@ public class Room
     {
         pointValue = 100;
         items = new ArrayList<>();
-    }
+    } 
     
     public int getPointValue() { return pointValue; }
     public void addItem(Item i) { items.add(i); }
